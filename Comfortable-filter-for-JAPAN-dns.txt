@@ -1,1 +1,5 @@
+! Title: Comfortable filter for JAPAN
+! Description: Removes unnecessary things
+! Version: 1
+!
 ||fine-cloud.net^
