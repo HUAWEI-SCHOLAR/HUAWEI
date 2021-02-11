@@ -1,5 +1,9 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 1
+! Version: 2
 !
 ||fine-cloud.net^
+||sch.line.me^
+||a.line.me^
+||yaxfjwzuux.xyz^
+||av-mov.com
