@@ -18,6 +18,5 @@ stripes.com###top-bar > section.top-bar-section:last-child > ul.right:first-chil
 cs.myjcom.jp###enq_fixed
 cs.myjcom.jp###renewal
 time-space.kddi.com###CONTENTS_WRAP > article.detailContents.detailContentsOld.detailContentsTxt:first-child > section:nth-child(4)
-stripes.com##div.fEy1Z2XT:nth-child(10)
-stripes.com##div.fEy1Z2XT:nth-child(11)
+stripes.com##.fEy1Z2XT
 youtube.com###hover-overlays
