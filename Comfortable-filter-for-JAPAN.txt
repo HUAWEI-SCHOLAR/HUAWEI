@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 6
+! Version: 7
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -23,3 +23,4 @@ businessinsider.com##.notification-banner-message, .headline-regular
 playonlinux.com##aside.aside-menu:nth-child(2) > div.login:nth-child(8)
 blog.katsubemakito.net###post-7228 > section.post-content:nth-child(2) > div.code-block.code-block-2:nth-child(50)
 gudgerog.com##div:last-child > div.grecaptcha-badge:first-child > div.grecaptcha-logo:first-child > iframe
+politico.eu###sp_message_iframe_218977
