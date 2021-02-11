@@ -26,3 +26,4 @@ gudgerog.com##div:last-child > div.grecaptcha-badge:first-child > div.grecaptcha
 nps.gov##div.ShutdownBanner:first-child
 greatplaces.org.uk###header1 > div:first-child
 consumer.huawei.com##.huawei-convergent-cookie
+kakaku.com##.p-cont_banner
