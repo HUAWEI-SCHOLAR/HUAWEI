@@ -27,5 +27,3 @@ nps.gov##div.ShutdownBanner:first-child
 greatplaces.org.uk###header1 > div:first-child
 consumer.huawei.com##.huawei-convergent-cookie
 kakaku.com##.p-cont_banner
-kakaku.com##.p-plan_left_ad
-mobareco.jp###text-37
