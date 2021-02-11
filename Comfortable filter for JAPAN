@@ -1,9 +1,5 @@
-# -------------------------------------------------------------------------------------------------------------------- #
-
-# Title: Comfortable filter for JAPAN
-# Description: Removes unnecessary things
-
-# -------------------------------------------------------------------------------------------------------------------- #
+! Title: Comfortable filter for JAPAN
+! Description: Removes unnecessary things
 
 youtube.com###sponsor-button
 youtube.com###endpoint-link
