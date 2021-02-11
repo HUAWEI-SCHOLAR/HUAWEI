@@ -14,10 +14,10 @@ cloud.huawei.com###app > div.cookieCloud:nth-child(3)
 huaweischolar.wordpress.com###marketingbar
 huaweischolar.wordpress.com###colophon
 stripes.com###pelcro-view-meter
-@@||stripes.com^*/header*.png#$image,~third-party
-@@||stripes.com^$generichide
 stripes.com###top-bar > section.top-bar-section:last-child > ul.right:first-child > li:first-child > a
 cs.myjcom.jp###enq_fixed
 cs.myjcom.jp###renewal
 time-space.kddi.com###CONTENTS_WRAP > article.detailContents.detailContentsOld.detailContentsTxt:first-child > section:nth-child(4)
-
+stripes.com##div.fEy1Z2XT:nth-child(10)
+stripes.com##div.fEy1Z2XT:nth-child(11)
+youtube.com###hover-overlays
