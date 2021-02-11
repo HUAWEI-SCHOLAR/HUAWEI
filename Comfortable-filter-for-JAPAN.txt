@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 2
+! Version: 3
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -17,3 +17,5 @@ cs.myjcom.jp###renewal
 stripes.com##.fEy1Z2XT
 youtube.com###hover-overlays
 youtube.com##.ytp-chrome-top
+time-space.kddi.com##.articleEvaArea
+stripes.com###top-bar > section.top-bar-section:last-child > ul.right:first-child > li:first-child > a
