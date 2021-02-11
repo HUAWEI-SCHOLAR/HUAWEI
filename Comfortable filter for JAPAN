@@ -3,20 +3,15 @@
 
 youtube.com###sponsor-button
 youtube.com###endpoint-link
-youtube.com###movie_player > div.ytp-chrome-top:nth-child(3)
-erogazou.gallery###main > div.box.big-box:first-child > div.pc_ad:nth-child(3)
-erogazou.gallery###main > div.box.content-box:first-child > div.pc_ad:nth-child(3)
 moeimg.net###wrapper-wrapper > iframe.pickup-header:first-child
 youtube.com###voice-search-button
-cloud.huawei.com###app > div.cookieCloud:nth-child(3)
 @@||gudgerog.com^*/header*.png#$image,~third-party
 @@||gudgerog.com^$generichide
 huaweischolar.wordpress.com###marketingbar
 huaweischolar.wordpress.com###colophon
 stripes.com###pelcro-view-meter
-stripes.com###top-bar > section.top-bar-section:last-child > ul.right:first-child > li:first-child > a
 cs.myjcom.jp###enq_fixed
 cs.myjcom.jp###renewal
-time-space.kddi.com###CONTENTS_WRAP > article.detailContents.detailContentsOld.detailContentsTxt:first-child > section:nth-child(4)
 stripes.com##.fEy1Z2XT
 youtube.com###hover-overlays
+youtube.com##.ytp-chrome-top
