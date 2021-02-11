@@ -20,4 +20,3 @@ youtube.com##.ytp-chrome-top
 time-space.kddi.com##.articleEvaArea
 stripes.com###top-bar > section.top-bar-section:last-child > ul.right:first-child > li:first-child > a
 asahi.5ch.net##div.container.container_body.mascot:nth-child(3) > div:last-child > div
-||fine-cloud.net^
