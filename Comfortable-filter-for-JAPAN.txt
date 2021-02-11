@@ -7,7 +7,6 @@ youtube.com###sponsor-button
 youtube.com###endpoint-link
 moeimg.net###wrapper-wrapper > iframe.pickup-header:first-child
 youtube.com###voice-search-button
-@@||gudgerog.com^*/header*.png#$image,~third-party
 @@||gudgerog.com^$generichide
 huaweischolar.wordpress.com###marketingbar
 huaweischolar.wordpress.com###colophon
@@ -23,3 +22,4 @@ asahi.5ch.net##div.container.container_body.mascot:nth-child(3) > div:last-child
 businessinsider.com##.notification-banner-message, .headline-regular
 playonlinux.com##aside.aside-menu:nth-child(2) > div.login:nth-child(8)
 blog.katsubemakito.net###post-7228 > section.post-content:nth-child(2) > div.code-block.code-block-2:nth-child(50)
+gudgerog.com##div:last-child > div.grecaptcha-badge:first-child
