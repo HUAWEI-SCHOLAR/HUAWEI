@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 8
+! Version: 9
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -24,3 +24,5 @@ greatplaces.org.uk###header1 > div:first-child
 consumer.huawei.com##.huawei-convergent-cookie
 kakaku.com##.p-cont_banner
 blog.katsubemakito.net##div > .code-block, .code-block-2
+
+!何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
