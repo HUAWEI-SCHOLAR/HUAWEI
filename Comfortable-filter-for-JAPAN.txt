@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 12
+! Version: 13
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -29,5 +29,6 @@ infoseek.co.jp##div.co-Widget.container.co-Horizontal > div.co-Widget.co-Horizon
 mtame.jp###sns_share
 digitalidentity.co.jp##div.bnr_floating01 > a > img
 shogi.or.jp##.snsArea
+juken-mikata.net##.tracking-alrt-wrapper
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
