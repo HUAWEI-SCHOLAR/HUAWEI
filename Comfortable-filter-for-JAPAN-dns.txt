@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 4
+! Version: 5
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -13,3 +13,4 @@
 ||anti-waribashi.com^
 ||enokimushroom.net^
 ||spirit.aptty.com^
+||ikashitasexlife.xyz^
