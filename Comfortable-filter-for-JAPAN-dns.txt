@@ -29,3 +29,4 @@
 ||nsscmyqjci.duckdns.org^
 ||takmlivrib.duckdns.org^
 ||asxar.com^
+||duckdns.org^
