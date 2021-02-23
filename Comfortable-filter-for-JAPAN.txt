@@ -31,10 +31,7 @@ digitalidentity.co.jp##div.bnr_floating01 > a > img
 shogi.or.jp##.snsArea
 juken-mikata.net##.tracking-alrt-wrapper
 onecruise.co.jp##.inner_bfb
-samurai-hi.com#@#mw-content-text
-samurai-hi.com###mw-content-text > div
-samurai-hi.com#@#mw-content-text > div.yellowbox
-samurai-hi.com##article > div.mainbox > div.entry-content > div
+##.adsbygoogle
 samurai-hi.com##.sns
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
