@@ -33,5 +33,6 @@ juken-mikata.net##.tracking-alrt-wrapper
 onecruise.co.jp##.inner_bfb
 ##.adsbygoogle
 samurai-hi.com##.sns
+www-cnn-co-jp.cdn.ampproject.org##.block_tools, .clearfix
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
