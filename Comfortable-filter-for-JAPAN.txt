@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 37
+! Version: 38
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -15,6 +15,7 @@ cs.myjcom.jp###renewal
 118.194.34.204:443$network
 49.4.20.204:443$network
 49.4.35.42:443$network
+49.4.20.119:443$network
 80.158.19.100:443$network
 stripes.com##.fEy1Z2XT
 youtube.com###hover-overlays
