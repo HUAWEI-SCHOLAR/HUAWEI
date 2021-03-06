@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 12
+! Version: 13
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -35,3 +35,4 @@
 ||api0.tuisong.baidu.com^
 ||dnkeeper.hicloud.com^
 ||terms1.hicloud.com^
+||feeds-drcn.dbankcdn.com^
