@@ -26,7 +26,7 @@ infoseek.co.jp##div.co-Widget.container.co-Horizontal > div.co-Widget.co-Horizon
 mtame.jp###sns_share
 ||baidu.com^$app=com.huawei.browser
 digitalidentity.co.jp##div.bnr_floating01 > a > img
-||browsercfg-drcn.cloud.hicloud.com
+||browsercfg-drcn.cloud.hicloud.com^$important
 shogi.or.jp##.snsArea
 juken-mikata.net##.tracking-alrt-wrapper
 onecruise.co.jp##.inner_bfb
