@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 9
+! Version: 10
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -32,3 +32,4 @@
 ||asxar.com^
 ||duckdns.org^
 ||eroero-service.com^
+||api0.tuisong.baidu.com^
