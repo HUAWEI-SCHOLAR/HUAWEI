@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 8
+! Version: 9
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -9,6 +9,7 @@
 ||av-mov.com
 ||sex-i-y.com^
 ||lovenape.com^
+||browsercfg-drcn.cloud.hicloud.com^
 ||abacome.net^
 ||anti-waribashi.com^
 ||enokimushroom.net^
