@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 29
+! Version: 30
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -25,8 +25,8 @@ cloud.huawei.com##.cookieCloud
 infoseek.co.jp##div.co-Widget.container.co-Horizontal > div.co-Widget.co-Horizontal > div.co-Widget.co-Horizontal > div.co-Widget.content.co-Horizontal > div.side.co-Widget.co-Horizontal > div > a > img
 mtame.jp###sns_share
 ||baidu.com^$app=com.huawei.browser
-||browsercfg-drcn.cloud.hicloud.com^$app=com.huawei.browser
 digitalidentity.co.jp##div.bnr_floating01 > a > img
+||browsercfg-drcn.cloud.hicloud.com^$app=com.huawei.browser
 shogi.or.jp##.snsArea
 juken-mikata.net##.tracking-alrt-wrapper
 onecruise.co.jp##.inner_bfb
