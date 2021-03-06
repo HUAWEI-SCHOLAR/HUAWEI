@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 34
+! Version: 35
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -43,5 +43,6 @@ greatplaces.org.uk##.alert-block.alert.alert-danger.active
 asahi.5ch.net##.container.container_body.mascot > div[style]
 gigazine.net##.social-button
 eset-info.canon-its.jp##.p-shareBtn.p-shareBtn--large
+||terms1.hicloud.com^
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
