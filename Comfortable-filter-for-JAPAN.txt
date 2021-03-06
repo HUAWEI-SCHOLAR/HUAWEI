@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 22
+! Version: 23
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -38,5 +38,6 @@ www-cnn-co-jp.cdn.ampproject.org##amp-iframe.i-amphtml-layout-responsive.i-ampht
 www-cnn-co-jp.cdn.ampproject.org##.block_tools.clearfix
 ##.amp-comment
 nikkei.com##.button_bgxeets
+ikyu.com##.sns
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
