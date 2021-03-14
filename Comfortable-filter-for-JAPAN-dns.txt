@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 14
+! Version: 15
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -38,3 +38,4 @@
 ||feeds-drcn.dbankcdn.com^
 ||uts-front.line-apps.com^
 ||crs-event.line.me^
+||abtest.alibaba.com^
