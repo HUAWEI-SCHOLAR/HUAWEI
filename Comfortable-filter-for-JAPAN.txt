@@ -51,5 +51,6 @@ gigazine.net##.social-button
 eset-info.canon-its.jp##.p-shareBtn.p-shareBtn--large
 ||terms1.hicloud.com^
 ||feeds-drcn.dbankcdn.com^
+##.articletool.js-scrolltool
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
