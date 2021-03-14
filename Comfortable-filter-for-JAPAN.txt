@@ -28,7 +28,6 @@ consumer.huawei.com##.huawei-convergent-cookie
 kakaku.com##.p-cont_banner
 blog.katsubemakito.net##div > .code-block, .code-block-2
 cloud.huawei.com##.cookieCloud
-infoseek.co.jp##div.co-Widget.container.co-Horizontal > div.co-Widget.co-Horizontal > div.co-Widget.co-Horizontal > div.co-Widget.content.co-Horizontal > div.side.co-Widget.co-Horizontal > div > a > img
 mtame.jp###sns_share
 ||baidu.com^$app=com.huawei.browser
 digitalidentity.co.jp##div.bnr_floating01 > a > img
