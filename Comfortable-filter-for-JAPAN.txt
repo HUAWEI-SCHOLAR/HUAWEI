@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 45
+! Version: 46
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -51,16 +51,17 @@ eset-info.canon-its.jp##.p-shareBtn.p-shareBtn--large
 ||terms1.hicloud.com^
 ||feeds-drcn.dbankcdn.com^
 ##.articletool.js-scrolltool
-iphone-mania.jp##.single_s_bt
+##.single_s_bt
 iphone-mania.jp##.socal
 iphone-mania.jp###ulCommentWidget
 iphone-mania.jp##.button_ss
-iphone-mania.jp##.pr_sidebar_right
+##.pr_sidebar_right
 ##.snsFollowArea.mb40
 ##.snsFollow
 ##.snsBlock
 ##.content--link.content--link--type5
 ##.header-follow_btn
 ##.sns-wrap
+##.block_tools.clearfix
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
