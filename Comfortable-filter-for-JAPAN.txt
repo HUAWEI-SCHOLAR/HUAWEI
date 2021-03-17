@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 50
+! Version: 51
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -36,7 +36,7 @@ onecruise.co.jp##.inner_bfb
 ##.adsbygoogle
 samurai-hi.com##.sns
 www.petalmail.com##.banner_box
-##.i-amphtml-layout-responsive.i-amphtml-layout-size-defined.i-amphtml-element.i-amphtml-built.i-amphtml-layout
+##amp-iframe.i-amphtml-layout-responsive.i-amphtml-layout-size-defined.i-amphtml-element.i-amphtml-built.i-amphtml-layout
 ##.amp-comment
 nikkei.com##.button_bgxeets
 ikyu.com##.sns
