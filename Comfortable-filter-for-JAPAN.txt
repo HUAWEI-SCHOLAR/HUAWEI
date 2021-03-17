@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 54
+! Version: 5
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -17,11 +17,9 @@ cs.myjcom.jp###renewal
 160.44.199.22:443$network
 49.4.20.119:443$network
 80.158.19.100:443$network
-stripes.com##.fEy1Z2XT
 youtube.com###hover-overlays
 youtube.com##.ytp-chrome-top
 time-space.kddi.com##.articleEvaArea
-businessinsider.com##.notification-banner-message, .headline-regular
 consumer.huawei.com##.huawei-convergent-cookie
 kakaku.com##.p-cont_banner
 ##.code-block.code-block-2
@@ -76,5 +74,6 @@ digihows.com##.entry-footer-html
 ###boxTopSns3col
 ##.addtoany_share_save_container.addtoany_content.addtoany_content_bottom
 playonlinux.com##.column
+##.login > div[style]
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
