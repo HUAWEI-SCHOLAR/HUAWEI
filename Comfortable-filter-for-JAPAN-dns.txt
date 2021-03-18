@@ -1,11 +1,17 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 16
+! Version: 17
 !
 ||fine-cloud.net^
 ||sch.line.me^
 ||a.line.me^
 ||yaxfjwzuux.xyz^
+||google.com/pagead/
+||google.com/uds/?file=ads&
+||google.com/uds/api/ads/
+||googleads.g.doubleclick.net/pagead/id^$xhr,redirect-rule=noop.txt
+||googlesyndication.com/pagead/
+||googlevideo.com^$media,redirect=noop-1s.mp4,domain=mlb.com
 ||av-mov.com
 ||sex-i-y.com^
 ||lovenape.com^
@@ -16,6 +22,21 @@
 ||spirit.aptty.com^
 ||ikashitasexlife.xyz^
 ||jpn.flowergiftcenter.pw^
+||google-analytics.com/analytics.js$script,redirect=google-analytics_analytics.js
+||google-analytics.com/ga.js$script,redirect=google-analytics_ga.js
+||google.*/log?$xhr
+||google.*/ping?
+||google.com/drive/logImpressions|
+||google.com/images/phd/px.gif
+||google.com^*/dlpageping?
+||google.com^*/log?
+||google.com^*/viewerimpressions?
+||googleapis.com/cdn.gifs.com/build/js/tracking-
+||googletagmanager.com/gtag/$3p
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager_gtm.js
+||googletagmanager.com/ns.html?$3p
+||googletagservices.com/tag/$3p
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||jpn.bestgiftamazon.online^
 ||vpnservicezone.com^
 ||jpn.bestbuyreward.online^
@@ -24,6 +45,9 @@
 ||cleaner-ultimate.com^
 ||15.topnewsfeeds.net^
 ||amazon-safety-site.jp^
+||google-analyticals.com^
+||googleadservices.com^$3p
+||google.*/log?$xhr
 ||xteranpmgy.xyz^
 ||fermyyduek.xyz^
 ||malaoghwlm.ddns.net^
@@ -40,3 +64,9 @@
 ||crs-event.line.me^
 ||abtest.alibaba.com^
 ||sponsor.ajay.app^
+com
+||googlesyndication.com/pagead/$script,redirect=noop.js,domain=mitly.us
+||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=audiotag.info|blog.umentu.work|coron.tech|freemen.jp|nihongo-pro.com|omega-saisentan.com|real-sports.jp|teemo.gg
+||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noop.js,domain=teemo.gg
+||googlesyndication.com^$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=3dzip.org|pngtosvg.com|scat.gold
+||googletagmanager.com/gtag/js$script,redirect-rule=googletagmanager_gtm.js,domain=asmhentai.com
