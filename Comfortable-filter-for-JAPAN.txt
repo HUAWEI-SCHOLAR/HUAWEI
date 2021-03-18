@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 57
+! Version: 58
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -11,12 +11,6 @@ wordpress.com###colophon
 stripes.com###pelcro-view-meter
 cs.myjcom.jp###enq_fixed
 cs.myjcom.jp###renewal
-118.194.34.204:443$network
-49.4.20.204:443$network
-49.4.35.42:443$network
-160.44.199.22:443$network
-49.4.20.119:443$network
-80.158.19.100:443$network
 youtube.com###hover-overlays
 youtube.com##.ytp-chrome-top
 time-space.kddi.com##.articleEvaArea
@@ -25,7 +19,6 @@ kakaku.com##.p-cont_banner
 ##.code-block.code-block-2
 cloud.huawei.com##.cookieCloud
 mtame.jp###sns_share
-||baidu.com^$app=com.huawei.browser
 digitalidentity.co.jp##div.bnr_floating01 > a > img
 shogi.or.jp##.snsArea
 juken-mikata.net##.tracking-alrt-wrapper
@@ -42,8 +35,6 @@ nps.gov##.ShutdownBanner
 ##.container.container_body.mascot > div[style]
 gigazine.net##.social-button
 eset-info.canon-its.jp##.p-shareBtn.p-shareBtn--large
-||terms1.hicloud.com^
-||feeds-drcn.dbankcdn.com^
 ##.articletool.js-scrolltool
 ##.single_s_bt
 iphone-mania.jp##.socal
