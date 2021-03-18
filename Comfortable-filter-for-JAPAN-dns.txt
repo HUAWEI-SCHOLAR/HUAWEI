@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 17
+! Version: 18
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -64,7 +64,6 @@
 ||crs-event.line.me^
 ||abtest.alibaba.com^
 ||sponsor.ajay.app^
-com
 ||googlesyndication.com/pagead/$script,redirect=noop.js,domain=mitly.us
 ||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect-rule=googlesyndication_adsbygoogle.js,domain=audiotag.info|blog.umentu.work|coron.tech|freemen.jp|nihongo-pro.com|omega-saisentan.com|real-sports.jp|teemo.gg
 ||googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noop.js,domain=teemo.gg
