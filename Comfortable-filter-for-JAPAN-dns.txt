@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 18
+! Version: 19
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -15,7 +15,6 @@
 ||av-mov.com
 ||sex-i-y.com^
 ||lovenape.com^
-||browsercfg-drcn.cloud.hicloud.com^
 ||abacome.net^
 ||anti-waribashi.com^
 ||enokimushroom.net^
@@ -57,9 +56,6 @@
 ||duckdns.org^
 ||eroero-service.com^
 ||api0.tuisong.baidu.com^
-||dnkeeper.hicloud.com^
-||terms1.hicloud.com^
-||feeds-drcn.dbankcdn.com^
 ||uts-front.line-apps.com^
 ||crs-event.line.me^
 ||abtest.alibaba.com^
