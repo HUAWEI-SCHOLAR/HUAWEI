@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 68
+! Version: 69
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -73,5 +73,6 @@ koichi.com##.sns
 ##.sc-bxivhb.gPlJgd
 ##.snsList
 ##.share-inc
+##.style-scope.tp-yt-iron-dropdown
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
