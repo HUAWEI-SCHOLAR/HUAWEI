@@ -1,12 +1,13 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 73
+! Version: 74
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
 youtube.com###voice-search-button
 wordpress.com###marketingbar
+smhn.info##.entry-content > aside
 wordpress.com###colophon
 stripes.com###pelcro-view-meter
 cs.myjcom.jp###enq_fixed
