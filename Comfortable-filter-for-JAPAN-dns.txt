@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 20
+! Version: 21
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -67,5 +67,4 @@
 ||googletagmanager.com/gtag/js$script,redirect-rule=googletagmanager_gtm.js,domain=asmhentai.com
 ||geo.ngtv.io
 ||static.tmz.com
-||wmff.warnermediacdn.com
 ||receive.wmcdp.io
