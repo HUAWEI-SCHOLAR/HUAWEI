@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 78
+! Version: 79
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -85,5 +85,6 @@ try-it.jp##.overlay__bg
 ##.kantan_btn_container.is_sp
 ##.p-shareBtn.p-shareBtn--middle
 ##.fab-btn.accent-bc
+###wrap-linkSNS
 
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
