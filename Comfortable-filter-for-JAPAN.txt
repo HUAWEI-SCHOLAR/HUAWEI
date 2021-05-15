@@ -88,7 +88,7 @@ try-it.jp##.overlay__bg
 ##.fab-btn.accent-bc
 ###wrap-linkSNS
 ||deaimode.com/wp-content/uploads/*/pcmaxbanner
-||baidu.com$third-party
+||baidu.com^$third-party
 
 !86rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
