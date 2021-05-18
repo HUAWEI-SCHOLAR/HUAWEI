@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 88
+! Version: 89
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -89,10 +89,10 @@ try-it.jp##.overlay__bg
 ||deaimode.com/wp-content/uploads/*/pcmaxbanner
 ##.fab-btn.extended-fab.main-c
 ||baidu.com^$app=com.huawei.browser
-/images/*/sns_facebook_circle.svg
-/images/*/sns_twitter_circle.svg
-/images/*/icn-logo-sns.svg
-/images/sns_facebook_*.svg
+/images/*/sns_facebook_circle
+/images/*/sns_twitter_circle
+/images/*/icn-logo-sns
+/images/sns_facebook_grey
 /image/twitter_retweet.png
 
 !91rules
