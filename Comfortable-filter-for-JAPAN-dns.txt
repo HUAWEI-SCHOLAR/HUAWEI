@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 25
+! Version: 26
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -74,3 +74,4 @@
 ||location.services.mozilla.com^
 ||firefox.settings.services.mozilla.com^
 ||shavar.services.mozilla.com^
+||api.popin.cc^ 
