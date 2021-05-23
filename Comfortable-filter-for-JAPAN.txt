@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 97
+! Version: 98
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -102,7 +102,7 @@ try-it.jp##.overlay__bg
 /common/*/snstoolbox.js
 /images/sns_line_circle
 /graph*twitter_list(*SnsFollow*) 
-||browsercfg-drcn.cloud.hicloud.com^$app=com.huawei.browser
+||tcp://browsercfg-drcn.cloud.hicloud.com^$app=com.huawei.browser
 ||dnkeeper.hicloud.com^$app=com.huawei.browser
 
 !101rules
