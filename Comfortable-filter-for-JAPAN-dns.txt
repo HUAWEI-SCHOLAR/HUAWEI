@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 40
+! Version: 41
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -98,3 +98,4 @@
 ||embed.tagboard.com^
 ||img.ak.impact-ad.jp^
 ||ssl-cache.stream.ne.jp^
+||jp.popin.cc^
