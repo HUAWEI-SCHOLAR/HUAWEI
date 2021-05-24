@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 36
+! Version: 37
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -94,3 +94,6 @@
 ||cdn.jsdelivr.net^
 ||www.npttech.com^
 ||experience-ap.piano.io^
+||pvtag.yahoo.co.jp^
+||embed.tagboard.com^
+||*.cloudfront.net^
