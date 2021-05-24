@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 33
+! Version: 34
 !
 ||fine-cloud.net^
 ||sch.line.me^
@@ -81,6 +81,9 @@
 ||static.line-scdn.net^
 ||static.evernote.com^
 ||dsar.ziffdavis.com^
+118.194.34.204:443
+49.4.20.119:443
+160.44.199.22:443
 ||unagi.amazon.co.jp^
 ||analytics.map.qq.com^
 ||counter.wikiwiki.jp^
