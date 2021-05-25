@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 103
+! Version: 104
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -110,6 +110,9 @@ try-it.jp##.overlay__bg
 _btn_line.
 .prettyPopin.js$third-party,domain=~sports.com
 _pf-record.png$image,domain=~sports.com
+-twitter-img-$img
+-facebook-img-$img
+-instagram-img-$img
 
-!107rules
+!110rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
