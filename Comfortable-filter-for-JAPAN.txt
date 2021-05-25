@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 108
+! Version: 109
 !
 youtube.com###sponsor-button
 youtube.com###endpoint-link
@@ -100,14 +100,9 @@ try-it.jp##.overlay__bg
 ##.in-rec0stBg
 /img/link_twitter
 /common/*/snstoolbox$script
-/images/sns_line_circle
 /graph*twitter_list(*SnsFollow*) 
-||tcp://49.4.20.204:443^
-||tcp://118.194.34.204:443^
-||tcp://49.4.20.119:443^
-||tcp://160.44.199.22:443^
-/bnr_top_sns.
-_btn_line.
+/bnr_top_sns.$image
+_btn_line.$image
 .prettyPopin.js$third-party,domain=~sports.com
 _pf-record.png$image,domain=~sports.com
 -twitter-img-$image
@@ -118,5 +113,5 @@ sns/button/*$image
 amp-facebook-like-$script
 ##.social-button-wide.sp-visible
 
-!114rules
+!109rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
