@@ -1,8 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 115
-
+! Version: 116
 !
 _btn_line.$image
 _pf-record.png$image,domain=~sports.com
@@ -114,9 +113,9 @@ youtube.com###endpoint-link
 youtube.com###hover-overlays
 youtube.com###sponsor-button
 youtube.com###voice-search-button
-||web-jp-assets.mercdn.net/_next/static/images/app-store
-||web-jp-assets.mercdn.net/_next/static/images/google-play
-||web-jp-assets.mercdn.net/_next/static/chunks/AppDownload
+/static/images/app-store
+/static/images/google-play
+/static/chunks/AppDownload
 /common/images/mod_btn_
 ||log.popin.cc^
 ||trouter-*-a.trouter.skype.com^
