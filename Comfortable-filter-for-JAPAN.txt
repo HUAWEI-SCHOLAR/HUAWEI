@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 116
+! Version: 117
 !
 _btn_line.$image
 _pf-record.png$image,domain=~sports.com
@@ -11,16 +11,19 @@ _pf-record.png$image,domain=~sports.com
 .prettyPopin.js$third-party,domain=~sports.com
 /bnr_top_sns.$image
 /common/*/snstoolbox$script
+/common/images/mod_btn_
 /graph*twitter_list(*SnsFollow*) 
 /image/twitter_retweet.png
 /images/*/icn-logo-sns
 /images/*/sns_*_circle
-image*/facebook
 /images/sns_*_grey
 /img/*/btn_facebook
 /img/*/btn_twitter
 /img/link_twitter
 /scripts/*/cloudflare-static/email-decode
+/static/chunks/AppDownload
+/static/images/app-store
+/static/images/google-play
 ##.adLandscape
 ##.adsbygoogle
 ##.alert-block.alert.alert-danger.active
@@ -71,7 +74,8 @@ image*/facebook
 ###wrap-linkSNS
 ##amp-iframe.i-amphtml-layout-responsive.i-amphtml-layout-size-defined.i-amphtml-element.i-amphtml-built.i-amphtml-layout
 ||baidu.com^$app=com.huawei.browser
-wp-content/uploads/*/pcmaxbanner
+||log.popin.cc^
+||trouter-*-a.trouter.skype.com^
 amp-facebook-like-$script
 cloud.huawei.com##.cookieCloud
 consumer.huawei.com##.huawei-convergent-cookie
@@ -83,6 +87,7 @@ eset-info.canon-its.jp##.p-shareBtn.p-shareBtn--large
 gigazine.net##.social-button
 ico_line_$image
 ikyu.com##.sns
+image*/facebook
 infoseek.co.jp##.official-account
 iphone-mania.jp##.button_ss
 iphone-mania.jp##.socal
@@ -107,18 +112,13 @@ try-it.jp##.overlay__bg
 weblogger.jp##.add
 wordpress.com###colophon
 wordpress.com###marketingbar
+wp-content/uploads/*/pcmaxbanner
 www.petalmail.com##.banner_box
 youtube.com##.ytp-chrome-top
 youtube.com###endpoint-link
 youtube.com###hover-overlays
 youtube.com###sponsor-button
 youtube.com###voice-search-button
-/static/images/app-store
-/static/images/google-play
-/static/chunks/AppDownload
-/common/images/mod_btn_
-||log.popin.cc^
-||trouter-*-a.trouter.skype.com^
 
 !116rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
