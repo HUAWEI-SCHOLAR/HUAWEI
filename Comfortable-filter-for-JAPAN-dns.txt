@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 48
+! Version: 49
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -56,7 +56,6 @@
 ||ssl-cache.stream.ne.jp^
 ||static.evernote.com^
 ||static.line-scdn.net^
-||static.tmz.com^
 ||t1.myteamdev.com^
 ||takmlivrib.duckdns.org^
 ||tracking-protection.cdn.mozilla.net^
