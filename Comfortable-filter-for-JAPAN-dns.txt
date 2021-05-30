@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 51
+! Version: 52
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -73,3 +73,5 @@
 ||trouter-*-a.trouter.skype.com^
 ||dt.hicloud.com^
 ||terms*.hicloud.com^
+||detectportal.firefox.com^
+||browserr-drcn.dbankcdn.com^
