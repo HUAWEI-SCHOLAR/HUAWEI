@@ -122,6 +122,7 @@ youtube.com###voice-search-button
 ###mvp-soc-mob-wrap
 ||dt.hicloud.com^
 ||terms*.hicloud.com^
+||dnkeeper.hicloud.com^
 
-!119rules
+!120rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
