@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 123
+! Version: 124
 !
 _btn_line.$image
 _pf-record.png$image,domain=~sports.com
@@ -121,12 +121,11 @@ youtube.com###sponsor-button
 youtube.com###voice-search-button
 ###mvp-soc-mob-wrap
 ||dt.hicloud.com^
-||terms*.hicloud.com^
 ||dnkeeper.hicloud.com^
 ||detectportal.firefox.com^
 ||browserr-drcn.dbankcdn.com^
 ##.main__adWrapperInner
 ##.curatedBy-footer
 
-!124rules
+!123rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
