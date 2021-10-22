@@ -71,6 +71,5 @@
 ||crs-hometab-event.line.me^
 ||go.trouter.skype.com^
 ||trouter-*-a.trouter.skype.com^
-||dt.hicloud.com^
 ||detectportal.firefox.com^
 ||browserr-drcn.dbankcdn.com^
