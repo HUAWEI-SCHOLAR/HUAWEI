@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 54
+! Version: 55
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -10,19 +10,30 @@
 ||analytics.map.qq.com^
 ||anti-waribashi.com^
 ||api0.tuisong.baidu.com^
+||api.flightproxy.skype.com^
 ||api.popin.cc^ 
 ||asxar.com^
 ||av-mov.com
 ||browsercfg-drcn.cloud.hicloud.com^
+||browserr-drcn.dbankcdn.com^
+||campaign.aliexpress.com^
 ||cdn.jsdelivr.net^
 ||cleaner-ultimate.com^
 ||cognito-identity.us-east-1.amazonaws.com^
+||configdownload-dra.dbankcdn.com^
 ||counter.wikiwiki.jp^
 ||crs-event.line.me^
+||crs-hometab-event.line.me^
+||data.microsoft.com^
+||datacollector-drcn.dt.dbankcloud.cn^
+||datacollector-dre.dt.dbankcloud.cn^
 ||detectportal.firefox.com^
+||detectportal.firefox.com^
+||dinamicx.alibabausercontent.com^
 ||dnkeeper.hicloud.com^
 ||dsar.ziffdavis.com^
 ||duckdns.org^
+||edge.api.brightcove.com^
 ||embed.tagboard.com^
 ||enokimushroom.net^
 ||eroero-service.com^
@@ -31,8 +42,11 @@
 ||fine-cloud.net^
 ||firefox.settings.services.mozilla.com^
 ||footprints-pa.googleapis.com^
+||gcp-img.slatic.net^
 ||geo.ngtv.io^
+||go.trouter.skype.com^
 ||graph.facebook.com^
+||i0.wp.com^
 ||ikashitasexlife.xyz^
 ||img.ak.impact-ad.jp^
 ||jp.popin.cc^
@@ -42,6 +56,8 @@
 ||jpn.flowergiftcenter.pw^
 ||lan3rd.line.me^
 ||location.services.mozilla.com^
+||log-music-data.line-apps.com^
+||log.nordot.jp^
 ||lovenape.com^
 ||malaoghwlm.ddns.net^
 ||maxcdn.bootstrapcdn.com^
@@ -51,6 +67,8 @@
 ||sch.line.me^
 ||sex-i-y.com^
 ||shavar.services.mozilla.com^
+||speed.coe.ad.jp^
+||speed.open.ad.jp^
 ||spirit.aptty.com^
 ||sponsor.ajay.app^
 ||ssl-cache.stream.ne.jp^
@@ -58,20 +76,19 @@
 ||static.line-scdn.net^
 ||t1.myteamdev.com^
 ||takmlivrib.duckdns.org^
+||track.list-finder.jp^
 ||tracking-protection.cdn.mozilla.net^
+||trouter-*-a.trouter.skype.com^
+||trouter.teams.microsoft.com^
 ||unagi.amazon.co.jp^
+||us-click.aliexpress.com^
+||us-ummt.alibaba.com^
 ||uts-front.line-apps.com^
 ||vpnservicezone.com^
 ||widgets.getpocket.com^
 ||wmff.warnermediacdn.com^
 ||wpimg.fuzoku-move.net^
+||www.msftconnecttest.com^
 ||www.npttech.com^
 ||xteranpmgy.xyz^
 ||yaxfjwzuux.xyz^
-||crs-hometab-event.line.me^
-||go.trouter.skype.com^
-||trouter-*-a.trouter.skype.com^
-||detectportal.firefox.com^
-||browserr-drcn.dbankcdn.com^
-||data.microsoft.com^
-||trouter.teams.microsoft.com^
