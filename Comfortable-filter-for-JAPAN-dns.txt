@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 57
+! Version: 58
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -94,3 +94,4 @@
 ||yaxfjwzuux.xyz^
 ||brentanmicro.club^
 ||impact-ad.jp^
+||relaido.jp^
