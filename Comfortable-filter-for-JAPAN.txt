@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 124
+! Version: 125
 !
 _btn_line.$image
 _pf-record.png$image,domain=~sports.com
@@ -13,6 +13,7 @@ _pf-record.png$image,domain=~sports.com
 /common/*/snstoolbox$script
 /common/images/mod_btn_
 /graph*twitter_list(*SnsFollow*) 
+/image/sns-*.svg
 /image/twitter_retweet.png
 /images/*/icn-logo-sns
 /images/*/sns_*_circle
@@ -20,6 +21,7 @@ _pf-record.png$image,domain=~sports.com
 /img/*/btn_facebook
 /img/*/btn_twitter
 /img/link_twitter
+/os_news_adv_sns
 /scripts/*/cloudflare-static/email-decode
 /static/chunks/AppDownload
 /static/images/app-store
@@ -36,6 +38,7 @@ _pf-record.png$image,domain=~sports.com
 ##.content--link.content--link--type5
 ##.ct-ad.ct-ad-inbody
 ##.ct-snsbar-holder
+##.curatedBy-footer
 ##.customized-header
 ##.entry-sns-btns
 ##.fab-btn.accent-bc
@@ -48,6 +51,7 @@ _pf-record.png$image,domain=~sports.com
 ##.hk-sns-tw-color
 ##.in-rec0stBg
 ##.kantan_btn_container.is_sp
+##.main__adWrapperInner
 ##.p-post-pnespwidget
 ##.p-shareBtn.p-shareBtn--middle
 ##.pr_sidebar_right
@@ -70,13 +74,22 @@ _pf-record.png$image,domain=~sports.com
 ###blockblockmodal-id
 ###boxTopSns3col
 ###following-sns
+###mvp-soc-mob-wrap
 ###snsAccountInfo 
 ###wrap-linkSNS
 ##amp-iframe.i-amphtml-layout-responsive.i-amphtml-layout-size-defined.i-amphtml-element.i-amphtml-built.i-amphtml-layout
 ||baidu.com^$app=com.huawei.browser
+||browserr-drcn.dbankcdn.com^
+||detectportal.firefox.com^
+||dnkeeper.hicloud.com^
+||dt.hicloud.com^
 ||log.popin.cc^
 ||trouter-*-a.trouter.skype.com^
 amp-facebook-like-$script
+btn_facebook*_sp
+btn_insta*_sp
+btn_twitter*_sp
+btn_youtube*_sp
 cloud.huawei.com##.cookieCloud
 consumer.huawei.com##.huawei-convergent-cookie
 cs.myjcom.jp###enq_fixed
@@ -119,13 +132,5 @@ youtube.com###endpoint-link
 youtube.com###hover-overlays
 youtube.com###sponsor-button
 youtube.com###voice-search-button
-###mvp-soc-mob-wrap
-||dt.hicloud.com^
-||dnkeeper.hicloud.com^
-||detectportal.firefox.com^
-||browserr-drcn.dbankcdn.com^
-##.main__adWrapperInner
-##.curatedBy-footer
 
-!123rules
 !何かしら問題が発生した場合は、Twitter(@HUAWEI_Research)までご連絡ください
