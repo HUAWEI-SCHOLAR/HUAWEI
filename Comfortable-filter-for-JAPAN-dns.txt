@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 58
+! Version: 59
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -27,7 +27,6 @@
 ||data.microsoft.com^
 ||datacollector-drcn.dt.dbankcloud.cn^
 ||datacollector-dre.dt.dbankcloud.cn^
-||detectportal.firefox.com^
 ||detectportal.firefox.com^
 ||dinamicx.alibabausercontent.com^
 ||dnkeeper.hicloud.com^
@@ -95,3 +94,44 @@
 ||brentanmicro.club^
 ||impact-ad.jp^
 ||relaido.jp^
+||analyticsengine.*.amazonaws.com^
+||advertising-api-*.amazon.com^
+||affiliationjs.*.amazonaws.com^
+||api-hotjar.com^
+||metrics-drcn.dt.hicloud.com^
+||amazonaax.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||ads.facebook.com^
+||advertising.twitter.com^
+||ads-api.twitter.com^
+||d.reddit.com^
+||hotjar-analytics.com^
+||click.oneplus.com^
+||www.ghacks.net^
+||data.mistat.intl.xiaomi.com^
+||analytics.oneplus.cn^
+||use.typekit.net^
+||cdn.webpush.jp^
+||hag-drcn.op.dbankcloud.com^
+||tracking.adspreemedia.com^
+||acd.op.hicloud.com^
+||us-unpm-upaas.ucweb.com^
+||us-ucdc-upaas.ucweb.com^
+||apiuccenter.ucweb.com^
+||logssug.ucweb.com^
+||intlsucus.ucweb.com^
+||acs.maribacaberita.com^
+||report.yukbacaberita.com^
+||settings.kiwibrowser.com^
+||service-cn.hwccpc.com^
+||sharing-config.spotifycdn.com^
+||appclick.rqmob.com^
+||advshield.goforandroid.com^
+||profiler-collector.wshareit.com^
+||serve-prod1204.uberads.com^
+||rlog.popin.cc^
+||cloud.feedly.com^
+||getpocket.com^
+||twitter.countoon.com^
+||tr.api.itmedia.jp^
