@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 59
+! Version: 60
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -111,6 +111,7 @@
 ||www.ghacks.net^
 ||data.mistat.intl.xiaomi.com^
 ||analytics.oneplus.cn^
+||ucads-cdn.ucweb.com^
 ||use.typekit.net^
 ||cdn.webpush.jp^
 ||hag-drcn.op.dbankcloud.com^
