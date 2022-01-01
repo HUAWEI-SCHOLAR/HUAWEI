@@ -85,7 +85,6 @@ _pf-record.png$image,domain=~sports.com
 ||dt.hicloud.com^
 ||log.popin.cc^
 ||trouter-*-a.trouter.skype.com^
-amp-facebook-like-$script
 btn_facebook*_sp
 btn_insta*_sp
 btn_twitter*_sp
@@ -133,3 +132,7 @@ youtube.com###hover-overlays
 youtube.com###sponsor-button
 youtube.com###voice-search-button
 /share/img/icon_*
+images/*/twitter_logo
+images/*/youtube_logo
+images/*/facebook_logo
+images/*/line_logo
