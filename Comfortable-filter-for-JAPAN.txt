@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 127
+! Version: 128
 !
 _btn_line.$image
 _pf-record.png$image,domain=~sports.com
@@ -136,3 +136,4 @@ images/*/twitter_logo
 images/*/youtube_logo
 images/*/facebook_logo
 images/*/line_logo
+/img/snsicon
