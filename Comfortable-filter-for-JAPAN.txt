@@ -68,7 +68,6 @@ _pf-record.png$image,domain=~sports.com
 ##.snsFollowArea.mb40
 ##.snsList
 ##.social-button-wide.sp-visible
-##.style-scope.tp-yt-iron-dropdown
 ##.uk-margin.uk-hidden-large
 ##.uk-subnav.uk-margin-bottom-remove
 ###blockblockmodal-id
