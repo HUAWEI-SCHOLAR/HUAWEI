@@ -82,8 +82,7 @@ _pf-record.png$image,domain=~sports.com
 ||detectportal.firefox.com^
 ||dnkeeper.hicloud.com^
 ||dt.hicloud.com^
-||log.popin.cc^
-||trouter-*-a.trouter.skype.com^
+||log.popin.cc
 btn_facebook*_sp
 btn_insta*_sp
 btn_twitter*_sp
