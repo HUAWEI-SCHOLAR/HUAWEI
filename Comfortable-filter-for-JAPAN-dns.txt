@@ -1,6 +1,6 @@
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version: 60
+! Version: 61
 !
 ||15.topnewsfeeds.net^
 ||a.line.me^
@@ -43,7 +43,6 @@
 ||footprints-pa.googleapis.com^
 ||gcp-img.slatic.net^
 ||geo.ngtv.io^
-||go.trouter.skype.com^
 ||graph.facebook.com^
 ||i0.wp.com^
 ||ikashitasexlife.xyz^
