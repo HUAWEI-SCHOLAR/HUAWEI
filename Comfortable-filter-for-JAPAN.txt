@@ -1,7 +1,7 @@
 [Comfortable filter for JAPAN]
 ! Title: Comfortable filter for JAPAN
 ! Description: Removes unnecessary things
-! Version:130
+! Version:131
 !
 _btn_line.$image
 _pf-record.png$image,domain=~sports.com
@@ -22,10 +22,6 @@ _pf-record.png$image,domain=~sports.com
 /img/*/btn_twitter
 /img/link_twitter
 /os_news_adv_sns
-/scripts/*/cloudflare-static/email-decode
-/static/chunks/AppDownload
-/static/images/app-store
-/static/images/google-play
 ##.adLandscape
 ##.adsbygoogle
 ##.alert-block.alert.alert-danger.active
@@ -36,14 +32,12 @@ _pf-record.png$image,domain=~sports.com
 ##.ct-ad.ct-ad-inbody
 ##.ct-snsbar-holder
 ##.curatedBy-footer
-##.customized-header
 ##.entry-sns-btns
 ##.fab-btn.accent-bc
 ##.fab-btn.extended-fab.main-c
 ##.global__navigation-sns-navigation-list
 ##.header-follow_btn
 ##.headsns.tn_sns_on
-##.hk-margin-medium-top.hk-margin-medium-bottom
 ##.hk-sns-fb-color
 ##.hk-sns-tw-color
 ##.in-rec0stBg
